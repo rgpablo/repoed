@@ -19,7 +19,7 @@ public class PabloruizGIT {
         // Alumno: Pablo Ruiz García
          int valor;
          
-         valor = 2;
+         valor = 3;
          
          System.out.println("Valor= "+valor);
     }
