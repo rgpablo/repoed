@@ -18,10 +18,10 @@ public class PabloruizGIT {
         // TODO code application logic here
         // Alumno: Pablo Ruiz García
          int valor;
-         int valor2;
+        
          
-         valor = 22;
-         valor2 = 12;
+         valor = 99;
+        
          
          System.out.println("Valor= "+valor);
     }
